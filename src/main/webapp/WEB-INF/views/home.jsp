@@ -43,8 +43,12 @@
                         I am adding this extra line
                  </p>
 <p>
-This is the second line to be added
+This is a second line to be added
 </p>
+<p>
+This is a third line to be added
+</p>
+
 		<ul>
 			<li>
 				<a id="simpleLink" class="textLink" href="<c:url value="/simple" />">GET /simple</a>
